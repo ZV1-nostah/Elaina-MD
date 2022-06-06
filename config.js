@@ -15,12 +15,12 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6282331660134','6282331660134','6282331660134','6282331660134']
-global.premium = ['6282331660134']
+global.owner = ['6281229393997','6281229393997','6281229393997','6281229393997']
+global.premium = ['6281229393997']
 global.botnma = 'Elaina - MD'
-global.ownernma = 'Skylarkaf'
-global.packname = '' 
-global.author = '⫹⫺ Created By : Elaina - MD\n⫹⫺ Owner : SkylarKaf\n⫹⫺ Instagram : @skylarkaf_\n⫹⫺ Website : https://s.id/Skylarkaf'
+global.ownernma = 'IbnuTM'
+global.packname = '6281229393997' 
+global.author = '⫹⫺ Created By : Elaina - MD\n⫹⫺ Owner : IbnuTM\n⫹⫺ Instagram : @zart_0d01_\n⫹⫺ Website : wa.me/+6281229393997'
 global.sessionName = 'Web'
 global.prefa = ['!','.','#']
 global.sp = '>'
